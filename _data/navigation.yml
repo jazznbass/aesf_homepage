@@ -1,6 +1,6 @@
 main:
 - title: Introduction
-  url: introduction.html
+  url: pages/introduction.html
 - title: Configuration
   url: configuration.html
 - title: Deployment
