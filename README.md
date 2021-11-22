@@ -1,2 +1,3 @@
-# aesf_homepage
-Homepage der Arbeitsgruppe Empirisch Arbeitender Sonderpädagogen
+# AESF homepage
+
+Homepage der Arbeitsgruppe Empirisch Arbeitender Sonderpädagogen.
