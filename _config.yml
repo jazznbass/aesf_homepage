@@ -4,7 +4,7 @@ description: [A short description of your site's purpose]
 theme: jekyll-theme-modernist
 
 
-baseurl: "https://jazznbass.github.io/aesf_homepage"
+#baseurl: "https://jazznbass.github.io/aesf_homepage"
 url: "https://jazznbass.github.io/aesf_homepage"
 
 # Reading Files
