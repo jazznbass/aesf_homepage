@@ -7,6 +7,11 @@ theme: jekyll-theme-tactile
 #baseurl: "https://jazznbass.github.io/aesf_homepage"
 url: "https://jazznbass.github.io/aesf_homepage"
 
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
+
 # Reading Files
 include:
   - _pages
