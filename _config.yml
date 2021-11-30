@@ -1,19 +1,23 @@
 title: AESF Hoempage
 description: [A short description of your site's purpose]
 
-theme: jekyll-theme-tactile
-
-
-baseurl: "/aesf_homepage"
-url: "https://jazznbass.github.io/aesf_homepage"
-
+baseurl: "" #"/aesf_homepage"
+url: "" #"https://jazznbass.github.io/aesf_homepage"
 
 # Build settings
+theme: minima
+
+# theme: jekyll-theme-tactile
+
+
+plugins:
+  - jekyll-feed
+
+
+
 markdown: kramdown
 permalink: /:year/:title:output_ext
 
 # Reading Files
 include:
   - _pages
-  
-

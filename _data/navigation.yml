@@ -1,8 +1,0 @@
-main:
-- title: Introduction
-  url: pages/introduction.html
-- title: Configuration
-  url: configuration.html
-- title: Deployment
-  url: deployment.html
-  
