@@ -1,6 +1,6 @@
-title: AESF Hoempage
+title: AESF Homepage
 description: >- # this means to ignore newlines until "baseurl:"
-  Arbeitsgemeinschaft Empirischer Sonderpädagogischer Forschung
+  Arbeitsgemeinschaft Empirische Sonderpädagogische Forschung
 
 email: jazznbass98@gmail.com
 github_username:  jazznbass
@@ -20,7 +20,6 @@ plugins:
 
 
 markdown: kramdown
-permalink: /:year/:title:output_ext
 
 # Reading Files
 include:
