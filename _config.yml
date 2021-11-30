@@ -5,7 +5,7 @@ baseurl: /aesf_homepage
 url: https://jazznbass.github.io/aesf_homepage
 
 # Build settings
-theme: jekyll-theme-tactile #minima
+theme: minima
 
 # theme: jekyll-theme-tactile
 
