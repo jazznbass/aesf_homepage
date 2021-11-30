@@ -6,4 +6,4 @@ categories: aesf
 author: Jürgen Wilbert
 ---
 
-Dieser Eintrag markierten den Anfang der AESF Homepage.
+Dieser Eintrag markierten den Anfang der AESF Homepage!
