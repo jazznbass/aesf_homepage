@@ -1,3 +1,3 @@
 # AESF homepage
 
-Homepage der Arbeitsgruppe Empirisch Arbeitender Sonderpädagogen.
+Homepage der Arbeitsgruppe Empirisch Sonderpädagogische Forschung.
