@@ -25,6 +25,6 @@ Einträge werden in Markdown verfasst. Ein kurzer Überblick findet sich
 
 Bilder in den Unterordner `/assets/img/` speichern und dann so einfügen:
 
-`![ggf. hier ein Text](/assets/img/thumb_up.png)`
+`![ggf. hier ein Text der erscheint, wenn das Bild nicht angezeigt bzw. nicht gesehen werden kann](/aesf_homepage/assets/img/thumb_up.png)`
 
-![ggf. hier ein Text](/assets/img/thumb_up.png)
+![ggf. hier ein Text](/aesf_homepage/assets/img/thumb_up.png)
