@@ -13,11 +13,10 @@ theme: minima
 
 # theme: jekyll-theme-tactile
 
+permalink: /:year/:month/:day/:title:output_ext
 
 plugins:
   - jekyll-feed
-
-
 
 markdown: kramdown
 

@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Impressum
+## Impressum
 
 Bla bla

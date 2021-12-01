@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Anleitung"
-date:   2021-01-12 17:26:36 +0100
-categories: schlagwort
+date:   2021-12-01 17:26:36 +0100
 author: Jürgen Wilbert
 ---
 
