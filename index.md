@@ -6,6 +6,3 @@ Willkommen auf der Internetseite der Arbeitsgemeinschaft Empirischer Sonderpäda
 
 
 ***Aktuelles:***
-
-Die nächsten Tagungen finden wie folgt statt:
-- Frühjahrstagung 2022: Hannover
