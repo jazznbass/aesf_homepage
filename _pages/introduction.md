@@ -4,4 +4,4 @@ title: Introduction
 permalink: /introduction/
 ---
 
-was auch immmer ....
+Die Arbeitsgruppe Empirische Sonderpädagogische Forschung (AESF) ist ein Zusammenschluss der empirisch arbeitenden Wissenschaftler und Wissenschaftlerinnen des deutschsprachigen Raums.
