@@ -4,13 +4,13 @@ title: Tagungen
 permalink: /conferences/
 ---
 
-## kommende Tagungen
+## Kommende Tagungen
 
 Die nächsten Tagungen finden wie folgt statt:
 - Frühjahrstagung 2022 Hannover
 
 
-## vergangene Tagungen
+## Vergangene Tagungen
 
 - Herbsttagung 2021   	Luxemburg
 - Frühjahrstagung 2021  Rostock/ Hamburg (digital)
@@ -19,3 +19,12 @@ Die nächsten Tagungen finden wie folgt statt:
 - Frühjahrstagung 2019  
 - Herbsttagung 2018     Wuppertal
 - Frühjahrstagung 2018  Genf
+- Herbsttagung 2017     Frankfurt
+- Frühjahrstagung 2017  Rostock
+- Herbsttagung 2016     Dortmund
+- Frühjahrstagung 2016  Flensburg
+- Herbsttagung 2015     Köln
+- Frühjahrstagung 2015  Potsdam
+- Herbsttagung 2014     Gießen
+- Frühjahrstagung 2014  Zürich
+
