@@ -32,8 +32,9 @@ Zu Beginn der Seite braucht es einen kurzen YAML header mit Metainformationen:
 
 [titel] durch den gewünschten Menueeintrag ersetzen.
 
-[unterodner] ein Ordername überglegen, in dem dann automatisch die Datei beim rendern abgelegt wird.  z.B. /conferences/ oder /about/
+[unterodner] ein Ordername überglegen, in dem dann automatisch die Datei beim rendern abgelegt wird.  
 
+z.B. /news1/  
 
 
 # Einträge schreiben
