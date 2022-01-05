@@ -16,7 +16,27 @@ Dateiname Beispiel:
 
 2021-01-12-dies-ist-ein-post.md
 
-# Einträge Schreiben
+
+# Neue Unterseite (mit Menuelink) anlegen
+
+Markdowndatein im Unterordner _pages werden automatisch als neue Seiten mit Mnueeintrag gerender.
+
+Zu Beginn der Seite braucht es einen kurzen YAML header mit Metainformationen:
+
+---
+layout: page
+title: [Titel]
+permalink: /[unterodner]/
+---
+
+
+[titel] durch den gewünschten Menueeintrag ersetzen.
+
+[unterodner] ein Ordername überglegen, in dem dann automatisch die Datei beim rendern abgelegt wird.  z.B. /conferences/ oder /about/
+
+
+
+# Einträge schreiben
 
 Einträge werden in Markdown verfasst. Ein kurzer Überblick findet sich
 [hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
