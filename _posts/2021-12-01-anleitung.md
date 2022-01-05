@@ -5,10 +5,11 @@ date:   2021-12-01 17:26:36 +0100
 author: Jürgen Wilbert
 ---
 
-# Einträge anlegen
+# Blogeinträge anlegen
+
+Markdowndateien die im Unterordner _posts liegen werden automatisch als Blogeintrag gerendert.
 
 Die Datei `_YYYY-MM-DD-template-blog.md` ist ein template für posts. Die Datei einfach kopieren und anpassen.
-
 Beim abspeichern dann den *Unterstrich* _ aus dem Dateinamen weglassen.
 
 Dateiname Beispiel:
