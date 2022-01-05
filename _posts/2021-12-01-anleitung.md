@@ -23,11 +23,11 @@ Markdowndatein im Unterordner _pages werden automatisch als neue Seiten mit Mnue
 
 Zu Beginn der Seite braucht es einen kurzen YAML header mit Metainformationen:
 
-`---
-layout: page
-title: [Titel]
-permalink: /[unterodner]/
----`
+`---  
+layout: page  
+title: [Titel]  
+permalink: /[unterodner]/  
+---`  
 
 
 [titel] durch den gewünschten Menueeintrag ersetzen.
