@@ -7,7 +7,7 @@ permalink: /conferences/
 ## Kommende Tagungen
 
 Die nächsten Tagungen finden wie folgt statt:
-- Frühjahrstagung 2022 Hannover
+- Frühjahrstagung 2022 Hannover https://konferenz.uni-hannover.de/event/52/registrations/
 
 
 ## Vergangene Tagungen
