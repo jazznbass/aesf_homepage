@@ -7,11 +7,12 @@ permalink: /conferences/
 ## Kommende Tagungen
 
 Die nächsten Tagungen finden wie folgt statt:
-- Frühjahrstagung 2022 Hannover https://konferenz.uni-hannover.de/event/52/registrations/
+
 
 
 ## Vergangene Tagungen
 
+- Frühjahrstagung 2022 Hannover https://konferenz.uni-hannover.de/event/52/registrations/
 - Herbsttagung 2021   	Luxemburg
 - Frühjahrstagung 2021  Rostock/ Hamburg (digital)
 - Herbsttagung 2020 Potsdam (digital)
