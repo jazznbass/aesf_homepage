@@ -7,6 +7,11 @@ permalink: /conferences/
 ## Kommende Tagungen
 
 Die nächsten Tagungen finden wie folgt statt:
+- Herbsttagung 2022     Bamberg / Köln (in Bamberg)
+- Frühjahrstagung 2023  Graz
+- Herbsttagung 2023     Münster
+- Frühjahrstagung 2024  Zürich
+- Herbsttagung 2024     ?
 
 
 
