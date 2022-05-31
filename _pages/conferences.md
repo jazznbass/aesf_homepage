@@ -7,30 +7,34 @@ permalink: /conferences/
 ## Kommende Tagungen
 
 Die nächsten Tagungen finden wie folgt statt:
-- Herbsttagung 2022     Bamberg / Köln (in Bamberg)
-- Frühjahrstagung 2023  Graz
-- Herbsttagung 2023     Münster
-- Frühjahrstagung 2024  Zürich
-- Herbsttagung 2024     ?
 
-
+| Jahr | Frühjahr / Herbst | Ort                    |
+|------|-------------------|------------------------|
+| 2022 | Herbsttagung      | Bamberg (mit Köln), DE |
+| 2023 | Frühjahrstagung   | Graz, AT               |
+| 2023 | Herbsttagung      | Münster, DE            |
+| 2024 | Frühjahrstagung   | Zürich, CH             |
+| 2024 | Herbsttagung      | ???                    |
 
 ## Vergangene Tagungen
 
-- Frühjahrstagung 2022 Hannover https://konferenz.uni-hannover.de/event/52/registrations/
-- Herbsttagung 2021   	Luxemburg
-- Frühjahrstagung 2021  Rostock/ Hamburg (digital)
-- Herbsttagung 2020 Potsdam (digital)
-- Herbsttagung 2019     
-- Frühjahrstagung 2019  
-- Herbsttagung 2018     Wuppertal
-- Frühjahrstagung 2018  Genf
-- Herbsttagung 2017     Frankfurt
-- Frühjahrstagung 2017  Rostock
-- Herbsttagung 2016     Dortmund
-- Frühjahrstagung 2016  Flensburg
-- Herbsttagung 2015     Köln
-- Frühjahrstagung 2015  Potsdam
-- Herbsttagung 2014     Gießen
-- Frühjahrstagung 2014  Zürich
-
+| Jahr | Frühjahr / Herbst         | Ort                   |
+|------|---------------------------|-----------------------|
+| 2022 | Frühjahrstagung           | Hannover, DE          |
+| 2021 | Herbsttagung              | Luxembourg, LU        |
+| 2021 | Frühjahrstagung (digital) | Rostock & Hamburg, DE |
+| 2020 | Herbsttagung (digital)    | Potsdam, DE           |
+| 2020 | Frühjahrstagung           |                       |
+| 2019 | Herbsttagung              |                       |
+| 2019 | Frühjahrstagung           |                       |
+| 2018 | Herbsttagung              | Wuppertal, DE         |
+| 2018 | Frühjahrstagung           | Genf, CH              |
+| 2017 | Herbsttagung              | Frankfurt, DE         |
+| 2017 | Frühjahrstagung           | Rostock, DE           |
+| 2016 | Herbsttagung              | Dortmund, DE          |
+| 2016 | Frühjahrstagung           | Flensburg, DE         |
+| 2015 | Herbsttagung              | Köln, DE              |
+| 2015 | Frühjahrstagung           | Potsdam, DE           |
+| 2014 | Herbsttagung              | Gießen, DE            |
+| 2014 | Frühjahrstagung           | Zürich, CH            |
+| ...  | ...                       | ...                   |
