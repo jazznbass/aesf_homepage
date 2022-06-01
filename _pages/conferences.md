@@ -51,4 +51,6 @@ Die nächsten Tagungen finden wie folgt statt:
 | 2008 | Frühjahrstagung           | Köln, DE              |
 | 2007 | Herbsttagung              | Zürich, DE            |
 | 2007 | Frühjahrstagung           | Dortmund, DE          |
+| 2006 | Herbsttagung              | ???                   |
+| 2006 | Frühjahrstagung           | Fribourg, CH          |
 | ...  | ...                       | ...                   |
