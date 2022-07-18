@@ -6,6 +6,8 @@ permalink: /mailinglist/
 
 Wie benutze ich die AESF-Mailingliste? Hier finden Sie die kurze Erklärungen zu den häufigsten Aktionen / Funktionen.
 
+**Wichtiger Hinweis:** Aktuell gibt es extrem viele neue Eintragungen. Zum Schutz vor Spam wird jedes Abonnement von Hand geprüft und diese Überprüfung ist nur möglich, wenn ersichtlich ist zu welcher Organisation eine Person gehört. Bitte nutzen Sie daher Ihre aktuelle Universitäts-/Arbeits-Emailadresse.
+
 ## Ich möchte eine E-Mail an die AESF-Liste schicken
 
 Um eine E-Mail an die AESF-Liste zu schicken, müssen Sie selbst Mitglied der Liste sein. Sie müssen die E-Mail von **derselben E-Mailadresse** absenden, mit der Sie auch in der Liste eingetragen sind. E-Mails von anderen Absendern werden vom System aufgehalten.
