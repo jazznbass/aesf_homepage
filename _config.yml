@@ -6,7 +6,7 @@ email: jazznbass98@gmail.com
 github_username:  jazznbass
 
 baseurl: /aesf_homepage
-url: http://www.aesf.eu/aesf_homepage   #https://jazznbass.github.io/aesf_homepage
+#url: http://www.aesf.eu/aesf_homepage   #https://jazznbass.github.io/aesf_homepage
 
 # Build settings
 theme: minima
