@@ -10,9 +10,8 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst | Ort                    | Link                                                             |
 |--------|-----------------|------------------|----------------------------|
-| 2022 | Herbsttagung      | Bamberg (mit Köln), DE | [Tagungshomepage Herbst 2022](https://www.hf.uni-koeln.de/42112) |
-| 2023 | Frühjahrstagung   | Graz, AT               |                                                                  |
-| 2023 | Herbsttagung      | Münster, DE            |                                                                  |
+| 2023 | Frühjahrstagung   | Graz, AT               |     05.- 06.05.2023                                                            |
+| 2023 | Herbsttagung      | Münster, DE            |     03.-04.11.2023                                                            |
 | 2024 | Frühjahrstagung   | Zürich, CH             |                                                                  |
 | 2024 | Herbsttagung      | ???                    |                                                                  |
 
@@ -20,6 +19,7 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst         | Ort                             |
 |------|---------------------------|---------------------------------|
+| 2022 | Herbsttagung              | Bamberg (mit Köln), DE | [Tagungshomepage Herbst 2022](https://www.hf.uni-koeln.de/42112) |
 | 2022 | Frühjahrstagung           | Hannover, DE                    |
 | 2021 | Herbsttagung              | Luxembourg, LU                  |
 | 2021 | Frühjahrstagung (digital) | Rostock & Hamburg, DE (digital) |
