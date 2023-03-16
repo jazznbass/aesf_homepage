@@ -10,7 +10,7 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst | Ort                    | Link                                                             |
 |--------|-----------------|------------------|----------------------------|
-| 2023 | Frühjahrstagung   | Graz, AT               |     05.- 06.05.2023                                                            |
+| 2023 | Frühjahrstagung   | Graz, AT               |     05.- 06.05.2023  [Tagungshomepage Graz 2023](https://aesf2023.de/2023-spring/)                           |
 | 2023 | Herbsttagung      | Münster, DE            |     03.-04.11.2023                                                            |
 | 2024 | Frühjahrstagung   | Zürich, CH             |                                                                  |
 | 2024 | Herbsttagung      | ???                    |                                                                  |
