@@ -13,7 +13,7 @@ Die nächsten Tagungen finden wie folgt statt:
 | 2023 | Herbst            | Münster, DE   | 02.-04.11.2023 |
 | 2024 | Frühjahr          | Zürich, CH    | 07.-07.06.2024 |
 | 2024 | Herbst            | ???           |                |
-| 2025 | Frühjahr          | ???           |                |
+| 2025 | Frühjahr          | Oldenburg, DE |                |
 | 2025 | Herbst            | Dortmund, DE  |                |
 | 2026 | Frühjahr          | Wuppertal, DE |                |
 
@@ -54,6 +54,6 @@ Die nächsten Tagungen finden wie folgt statt:
 | 2008 | Frühjahrstagung           | Köln, DE              |
 | 2007 | Herbsttagung              | Zürich, DE            |
 | 2007 | Frühjahrstagung           | Dortmund, DE          |
-| 2006 | Herbsttagung              | ???                   |
+| 2006 | Herbsttagung              | Oldenburg, DE         |
 | 2006 | Frühjahrstagung           | Fribourg, CH          |
 | ...  | ...                       | ...                   |
