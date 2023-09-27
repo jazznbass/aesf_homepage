@@ -13,7 +13,7 @@ Die nächsten Tagungen finden wie folgt statt:
 | 2023 | Herbst            | Münster, DE   | 02.-04.11.2023 |
 | 2024 | Frühjahr          | Zürich, CH    | 07.-08.06.2024 |
 | 2024 | Herbst            | tba           |                |
-| 2025 | Frühjahr          | Oldenburg, DE |                |
+| 2025 | Frühjahr          | Oldenburg, DE | 08.-10.05.2025 |
 | 2025 | Herbst            | Dortmund, DE  |                |
 | 2026 | Frühjahr          | Wuppertal, DE |                |
 
