@@ -10,19 +10,20 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst | Ort           | Daten & Info   |
 |------|-------------------|---------------|----------------|
-| 2023 | Herbst            | Münster, DE   | 02.-04.11.2023 |
 | 2024 | Frühjahr          | Zürich, CH    | 07.-08.06.2024 |
-| 2024 | Herbst            | tba           |                |
+| 2024 | Herbst            | München, DE   | tba            |
 | 2025 | Frühjahr          | Oldenburg, DE | 08.-10.05.2025 |
-| 2025 | Herbst            | Dortmund, DE  |                |
-| 2026 | Frühjahr          | Wuppertal, DE |                |
+| 2025 | Herbst            | Dortmund, DE  | tba            |
+| 2026 | Frühjahr          | Wuppertal, DE | tba            |
+| 2026 | Herbst            | tba           | tba            |
 
 ## Vergangene Tagungen
 
 | Jahr | Frühjahr / Herbst         | Ort                   |
 |------|---------------------------|-----------------------|
+| 2023 | Herbsttagung              | Münster, DE           |
 | 2023 | Frühjahrstagung           | Graz, AT              |
-| 2022 | Herbsttagung              | Bamberg, DE    |
+| 2022 | Herbsttagung              | Bamberg, DE           |
 | 2022 | Frühjahrstagung           | Hannover, DE          |
 | 2021 | Herbsttagung              | Luxembourg, LU        |
 | 2021 | Frühjahrstagung (digital) | Rostock & Hamburg, DE |
