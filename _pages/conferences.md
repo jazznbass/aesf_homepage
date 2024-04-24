@@ -10,8 +10,8 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst | Ort           | Daten & Info   |
 |------|-------------------|---------------|----------------|
-| 2024 | Frühjahr          | Zürich, CH    | [Tagungshomepage](https://www.bildungfueralle.ch/event/arbeitsgemeinschaft-empirische-sonderpaedagogische-forschung-aesf-fruehjahrstagung) 07.-08.06.2024 |
-| 2024 | Herbst            | München, DE   | 10.-11.10.2024 |
+| 2024 | Frühjahr          | Zürich, CH    | 07.-08.06.2024 ([Tagungshomepage](https://www.bildungfueralle.ch/event/arbeitsgemeinschaft-empirische-sonderpaedagogische-forschung-aesf-fruehjahrstagung))  |
+| 2024 | Herbst            | München, DE   | 10.-11.10.2024 ([Tagungshomepage](https://www.edu.lmu.de/lbp/aesf_herbsttagung/index.html))|
 | 2025 | Frühjahr          | Oldenburg, DE | 08.-10.05.2025 |
 | 2025 | Herbst            | Dortmund, DE  | tba            |
 | 2026 | Frühjahr          | Wuppertal, DE | tba            |
