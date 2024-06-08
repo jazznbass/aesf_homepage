@@ -10,17 +10,17 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst | Ort           | Daten & Info   |
 |------|-------------------|---------------|----------------|
-| 2024 | Frühjahr          | Zürich, CH    | 07.-08.06.2024 ([Tagungshomepage](https://www.bildungfueralle.ch/event/arbeitsgemeinschaft-empirische-sonderpaedagogische-forschung-aesf-fruehjahrstagung))  |
 | 2024 | Herbst            | München, DE   | 10.-11.10.2024 ([Tagungshomepage](https://www.edu.lmu.de/lbp/aesf_herbsttagung/index.html))|
 | 2025 | Frühjahr          | Oldenburg, DE | 08.-10.05.2025 |
 | 2025 | Herbst            | Dortmund, DE  | tba            |
 | 2026 | Frühjahr          | Wuppertal, DE | tba            |
-| 2026 | Herbst            | tba           | tba            |
+| 2026 | Herbst            | Leipzig, DE   | tba            |
 
 ## Vergangene Tagungen
 
 | Jahr | Frühjahr / Herbst         | Ort                   |
 |------|---------------------------|-----------------------|
+| 2024 | Frühjahrstagung           | Zürich, CH            |
 | 2023 | Herbsttagung              | Münster, DE           |
 | 2023 | Frühjahrstagung           | Graz, AT              |
 | 2022 | Herbsttagung              | Bamberg, DE           |
@@ -51,9 +51,9 @@ Die nächsten Tagungen finden wie folgt statt:
 | 2010 | Frühjahrstagung           | Rostock, DE           |
 | 2009 | Herbsttagung              | Hamburg, DE           |
 | 2009 | Frühjahrstagung           | Frankfurt a. M., DE   |
-| 2008 | Herbsttagung              | Zürich, DE            |
+| 2008 | Herbsttagung              | Zürich, CH            |
 | 2008 | Frühjahrstagung           | Köln, DE              |
-| 2007 | Herbsttagung              | Zürich, DE            |
+| 2007 | Herbsttagung              | Zürich, CH            |
 | 2007 | Frühjahrstagung           | Dortmund, DE          |
 | 2006 | Herbsttagung              | Oldenburg, DE         |
 | 2006 | Frühjahrstagung           | Fribourg, CH          |
