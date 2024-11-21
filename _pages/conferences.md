@@ -10,7 +10,6 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst | Ort           | Daten & Info   |
 |------|-------------------|---------------|----------------|
-| 2024 | Herbst            | München, DE   | 10.-11.10.2024 ([Tagungshomepage](https://www.edu.lmu.de/lbp/aesf_herbsttagung/index.html))|
 | 2025 | Frühjahr          | Oldenburg, DE | 08.-10.05.2025 |
 | 2025 | Herbst            | Dortmund, DE  | tba            |
 | 2026 | Frühjahr          | Wuppertal, DE | tba            |
@@ -20,6 +19,7 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst         | Ort                   |
 |------|---------------------------|-----------------------|
+| 2024 | Herbst                    | München, DE           |
 | 2024 | Frühjahrstagung           | Zürich, CH            |
 | 2023 | Herbsttagung              | Münster, DE           |
 | 2023 | Frühjahrstagung           | Graz, AT              |
