@@ -12,7 +12,7 @@ Wie benutze ich die AESF-Mailingliste? Hier finden Sie die kurze Erklärungen zu
 
 Um eine E-Mail an die AESF-Liste zu schicken, müssen Sie selbst Mitglied der Liste sein. Sie müssen die E-Mail von **derselben E-Mailadresse** absenden, mit der Sie auch in der Liste eingetragen sind. E-Mails von anderen Absendern werden vom System aufgehalten.
 
-1) Geben sie als Empfänger der E-Mail *aesf-list(ät)uni-potsdam(punkt)de* ein.
+1) Geben sie als Empfänger der E-Mail *aesf(ät)listserv(punkt)dfn(punkt)de* ein.
 
 2) Schreiben Sie Ihre Nachricht wie gewohnt, versehen Sie sie mit einem aussagekräftigen Betreff.
 
@@ -20,14 +20,14 @@ Um eine E-Mail an die AESF-Liste zu schicken, müssen Sie selbst Mitglied der Li
 
 4) Klicken Sie nur einmal auf *Senden* (Webmailoberflächen schicken bei Doppel-/Mehrfachklicks teilweise mehrere E-Mails raus, was dann den Spam-Schutz der Mailingliste aktiviert).
 
-5) Der Versand der E-Mail erfolgt in der Regel innerhalb weniger Minuten. Sollte Ihre E-Mail nach zwei Stunden noch nicht über die Liste gegangen sein, begeben Sie sich auf Fehlersuche oder wenden Sie sich an *timo.lueke(ät)uni(minus)graz(punkt)at*.
+5) Der Versand der E-Mail erfolgt in der Regel innerhalb weniger Minuten. Sollte Ihre E-Mail nach etwa einer Stunde noch nicht über die Liste gegangen sein, begeben Sie sich auf Fehlersuche oder wenden Sie sich an *timo.lueke(ät)uni(minus)kassel(punkt)de*.
 
 
 ## Ich möchte Einstellungen vornehmen
 
 Sie können Ihre Daten selbständig verwalten und das Verhalten der Mailingliste beeinflussen. Sie können beispielsweise Ihre eingetragene E-Mailadresse ändern, die Mailingliste abbestellen, Ihr Passwort ändern und fortgeschrittene Einstellungen vornehmen (für Mailinglistenprofis).
 
-1) Rufen Sie die Infoseite der Mailingliste unter auf: [Mailman](https://lists.uni-potsdam.de/mailman/listinfo/aesf-list).
+1) Rufen Sie die Infoseite der Mailingliste unter auf: [DFN Mailingliste](https://www.listserv.dfn.de/sympa/info/aesf).
 
 2) Geben Sie ganz unten auf der Seite im Bereich *Austragen / Ändern einer Mailadresse* die E-Mailadresse ein, mit der Sie im AESF-Verteiler eingetragen sind und klicken Sie auf *Abonnement abbestellen oder Einstellungen bearbeiten*.
 
@@ -71,4 +71,4 @@ Folgen Sie den Schritten 1 bis 3a unter **Ich möchte Einstellungen vornehmen**.
 
 -Urlaubsbenachrichtigungen sollten so konfiguriert sein, dass sie NICHT an Mailinglisten verschickt werden. In allen gängigen E-Mailprogrammen und Webmailern ist dies so voreingestellt. Bitte ändern Sie das nicht.
 
--Bei Fragen oder Problemen melden Sie sich per E-Mail bei Timo Lüke (*timo.lueke(ät)uni(minus)graz(punkt)at*).
+-Bei Fragen oder Problemen melden Sie sich per E-Mail bei Timo Lüke (*timo.lueke(ät)uni(minus)kassel(punkt)de*).
