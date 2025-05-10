@@ -10,7 +10,6 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst | Ort           | Daten & Info   |
 |------|-------------------|---------------|----------------|
-| 2025 | Frühjahr          | Oldenburg, DE | 08.-10.05.2025 |
 | 2025 | Herbst            | Dortmund, DE  | 20.-22.10.2025 |
 | 2026 | Frühjahr          | Wuppertal, DE | tba            |
 | 2026 | Herbst            | Leipzig, DE   | tba            |
@@ -19,6 +18,7 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst         | Ort                   |
 |------|---------------------------|-----------------------|
+| 2025 | Frühjahr          | Oldenburg, DE | 08.-10.05.2025 |
 | 2024 | Herbst                    | München, DE           |
 | 2024 | Frühjahrstagung           | Zürich, CH            |
 | 2023 | Herbsttagung              | Münster, DE           |
