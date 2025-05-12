@@ -18,7 +18,7 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst         | Ort                   |
 |------|---------------------------|-----------------------|
-| 2025 | Frühjahr          | Oldenburg, DE | 08.-10.05.2025 |
+| 2025 | Frühjahr                  | Oldenburg, DE         |
 | 2024 | Herbst                    | München, DE           |
 | 2024 | Frühjahrstagung           | Zürich, CH            |
 | 2023 | Herbsttagung              | Münster, DE           |
