@@ -10,7 +10,7 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst | Ort           | Daten & Info   |
 |------|-------------------|---------------|----------------|
-| 2025 | Herbst            | Dortmund, DE  | 20.-22.11.2025 |
+| 2025 | Herbst            | Dortmund, DE  | 20.-22.11.2025 [Tagungswebsite](https://reha.tu-dortmund.de/aesf-herbsttagung-2025/)|
 | 2026 | Frühjahr          | Wuppertal, DE | tba            |
 | 2026 | Herbst            | Leipzig, DE   | tba            |
 
