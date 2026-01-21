@@ -11,7 +11,7 @@ Die nächsten Tagungen finden wie folgt statt:
 | Jahr | Frühjahr / Herbst | Ort           | Daten & Info   |
 |------|-------------------|---------------|----------------|
 | 2026 | Frühjahr          | Leipzig, DE   | 07.-09.05.2026 |
-| 2026 | Herbst            | Wuppertal, DE | tba            |
+| 2026 | Herbst            | Wuppertal, DE | 12.-14.11.2026 |
 | 2027 | Frühjahr          | Kassel, DE    | tba            |
 
 
