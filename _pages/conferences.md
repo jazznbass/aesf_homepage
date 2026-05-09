@@ -10,15 +10,16 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst | Ort           | Daten & Info   |
 |------|-------------------|---------------|----------------|
-| 2026 | Frühjahr          | Leipzig, DE   | 07.-09.05.2026 |
-| 2026 | Herbst            | Wuppertal, DE | 12.-14.11.2026 |
+| 2026 | Herbst            | Wuppertal, DE | 12.-14.11.2026 [Tagungshomepage](https://aesf2026.uni-wuppertal.de/)|
 | 2027 | Frühjahr          | Kassel, DE    | 22.-24.04.2027 |
+| 2027 | Herbst            | ???           | tba            |
 
 
 ## Vergangene Tagungen
 
 | Jahr | Frühjahr / Herbst         | Ort                   |
 |------|---------------------------|-----------------------|
+| 2026 | Frühjahr                  | Leipzig, DE           |
 | 2025 | Herbst                    | Dortmund, DE          |
 | 2025 | Frühjahr                  | Oldenburg, DE         |
 | 2024 | Herbst                    | München, DE           |
