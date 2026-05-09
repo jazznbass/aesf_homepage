@@ -12,7 +12,7 @@ Die nächsten Tagungen finden wie folgt statt:
 |------|-------------------|---------------|----------------|
 | 2026 | Frühjahr          | Leipzig, DE   | 07.-09.05.2026 |
 | 2026 | Herbst            | Wuppertal, DE | 12.-14.11.2026 |
-| 2027 | Frühjahr          | Kassel, DE    | tba            |
+| 2027 | Frühjahr          | Kassel, DE    | 22.-24.04.2027 |
 
 
 ## Vergangene Tagungen
