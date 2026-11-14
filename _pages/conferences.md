@@ -10,15 +10,20 @@ Die nächsten Tagungen finden wie folgt statt:
 
 | Jahr | Frühjahr / Herbst | Ort           | Daten & Info   |
 |------|-------------------|---------------|----------------|
-| 2026 | Herbst            | Wuppertal, DE | 12.-14.11.2026 [Tagungshomepage](https://aesf2026.uni-wuppertal.de/)|
 | 2027 | Frühjahr          | Kassel, DE    | 23.-24.04.2027 [Tagungshomepage](https://www.uni-kassel.de/fb01/institute/institut-fuer-erziehungswissenschaft/fachgebiete/erziehungswissenschaft-mit-dem-schwerpunkt-inklusionsorientierte-diagnostik/aesf-fruehjahrstagung-2027.html)|
-| 2027 | Herbst            | ???           | tba            |
+| 2027 | Herbst            | Hannover, DE  | tba            |
+| 2028 | Frühjahr          | Zürich, CH    | tba            |
+| 2028 | Herbst            | Potsdam, DE   | tba            |
+| 2029 | Frühjahr          | München, DE   | tba            |
+| 2029 | Herbst            | Ludwigsburg, DE | tba         |
+| 2030 | Frühjahr          | Münster, DE   | tba            |
 
 
 ## Vergangene Tagungen
 
 | Jahr | Frühjahr / Herbst         | Ort                   |
 |------|---------------------------|-----------------------|
+| 2026 | Herbst.                   | Wuppertal, DE         |
 | 2026 | Frühjahr                  | Leipzig, DE           |
 | 2025 | Herbst                    | Dortmund, DE          |
 | 2025 | Frühjahr                  | Oldenburg, DE         |
