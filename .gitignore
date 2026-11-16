@@ -4,3 +4,4 @@ _site/
 .DS_store
 .Rproj.user
 .Rhistory
+.local-preview/

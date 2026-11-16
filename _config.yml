@@ -11,6 +11,12 @@ baseurl: /aesf_homepage
 # Build settings
 theme: minima
 
+header_pages:
+  - _pages/conferences.md
+  - _pages/mailinglist.md
+  - _pages/history.md
+  - _pages/about.md
+
 # theme: jekyll-theme-tactile
 
 permalink: /:year/:month/:day/:title:output_ext

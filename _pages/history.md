@@ -1,69 +1,23 @@
 ---
 layout: page
-title: Tagungen
-permalink: /conferences/
+title: Historisches
+permalink: /history/
 ---
 
-## Kommende Tagungen
+### Karl Josef Klauer (1929–2023)
 
-Die nächsten Tagungen finden wie folgt statt:
+Karl Josef Klauer war einer der Mitbegründer der AESF. Gabriele Ricken und Michael Grosche würdigen sein Wirken und seine Initiative zur Gründung der AESF in ihrem [Nachruf auf Karl Josef Klauer in der Zeitschrift *Empirische Sonderpädagogik* (2023, Heft 1, S. 99–100)](https://www.psychologie-aktuell.com/fileadmin/Redaktion/Journale/esp-2023-1/ESP_2023-1_99-100.pdf).
 
-| Jahr | Frühjahr / Herbst | Ort           | Daten & Info   |
-|------|-------------------|---------------|----------------|
-| 2027 | Frühjahr          | Kassel, DE    | 23.-24.04.2027 [Tagungshomepage](https://www.uni-kassel.de/fb01/institute/institut-fuer-erziehungswissenschaft/fachgebiete/erziehungswissenschaft-mit-dem-schwerpunkt-inklusionsorientierte-diagnostik/aesf-fruehjahrstagung-2027.html)|
-| 2027 | Herbst            | Hannover, DE  | tba            |
-| 2028 | Frühjahr          | Zürich, CH    | tba            |
-| 2028 | Herbst            | Potsdam, DE   | tba            |
-| 2029 | Frühjahr          | München, DE   | tba            |
-| 2029 | Herbst            | Ludwigsburg, DE | tba         |
-| 2030 | Frühjahr          | Münster, DE   | tba            |
+### Herbsttagung 2006 in Oldenburg
 
+![Ausschnitt aus dem Institutsbericht 2006: Bericht über die AESF-Herbsttagung in Oldenburg mit rund 40 Teilnehmenden, organisiert von Matthias Grünke, Kristina Reiss und Gisela Schulze.]({{ '/assets/img/aesf-oldenburg-2006.png' | relative_url }})
 
-## Vergangene Tagungen
+[Bericht aus dem Institut für Sonderpädagogik der Universität Oldenburg (2006), S. 22](https://uol.de/f/1/inst/sonderpaedagogik/download/Jahresbericht_2006_Druckversion.pdf)
 
-| Jahr | Frühjahr / Herbst         | Ort                   |
-|------|---------------------------|-----------------------|
-| 2026 | Herbst                    | Wuppertal, DE         |
-| 2026 | Frühjahr                  | Leipzig, DE           |
-| 2025 | Herbst                    | Dortmund, DE          |
-| 2025 | Frühjahr                  | Oldenburg, DE         |
-| 2024 | Herbst                    | München, DE           |
-| 2024 | Frühjahrstagung           | Zürich, CH            |
-| 2023 | Herbsttagung              | Münster, DE           |
-| 2023 | Frühjahrstagung           | Graz, AT              |
-| 2022 | Herbsttagung              | Bamberg, DE           |
-| 2022 | Frühjahrstagung           | Hannover, DE          |
-| 2021 | Herbsttagung              | Luxembourg, LU        |
-| 2021 | Frühjahrstagung (digital) | Rostock & Hamburg, DE |
-| 2020 | Herbsttagung (digital)    | Potsdam, DE           |
-| 2020 | Frühjahrstagung           | Entfallen             |
-| 2019 | Herbsttagung              | Siegen, DE            |
-| 2019 | Frühjahrstagung           | Fribourg, CH          |
-| 2018 | Herbsttagung              | Wuppertal, DE         |
-| 2018 | Frühjahrstagung           | Genf, CH              |
-| 2017 | Herbsttagung              | Frankfurt, DE         |
-| 2017 | Frühjahrstagung           | Rostock, DE           |
-| 2016 | Herbsttagung              | Dortmund, DE          |
-| 2016 | Frühjahrstagung           | Flensburg, DE         |
-| 2015 | Herbsttagung              | Köln, DE              |
-| 2015 | Frühjahrstagung           | Potsdam, DE           |
-| 2014 | Herbsttagung              | Gießen, DE            |
-| 2014 | Frühjahrstagung           | Zürich, CH            |
-| 2013 | Herbsttagung              | Entfallen             |
-| 2013 | Frühjahrstagung           | Hamburg, DE           |
-| 2012 | Herbsttagung              | Graz, AT              |
-| 2012 | Frühjahrstagung           | Oldenburg, DE         |
-| 2011 | Herbsttagung              | Köln, DE              |
-| 2011 | Frühjahrstagung           | Gießen, DE            |
-| 2010 | Herbsttagung              | Fribourg, CH          |
-| 2010 | Frühjahrstagung           | Rostock, DE           |
-| 2009 | Herbsttagung              | Hamburg, DE           |
-| 2009 | Frühjahrstagung           | Frankfurt a. M., DE   |
-| 2008 | Herbsttagung              | Zürich, CH            |
-| 2008 | Frühjahrstagung           | Köln, DE              |
-| 2007 | Herbsttagung              | Zürich, CH            |
-| 2007 | Frühjahrstagung           | Dortmund, DE          |
-| 2006 | Herbsttagung              | Oldenburg, DE         |
-| 2006 | Frühjahrstagung           | Fribourg, CH          |
-| ...  | ...                       | ...                   |
-| 1998 | Herbsttagung              | Köln, DE              |
+### Frühjahrstagung 2004 in Köln
+
+![](images/clipboard-2178123783.png)
+
+### Herbsttagung 1998 in Köln
+
+![](images/clipboard-3145363920.png)

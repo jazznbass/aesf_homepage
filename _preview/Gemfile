@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+# Separate dependencies for local preview; the deployment Gemfile is unchanged.
+gem "github-pages", group: :jekyll_plugins
+gem "webrick", "~> 1.9"
