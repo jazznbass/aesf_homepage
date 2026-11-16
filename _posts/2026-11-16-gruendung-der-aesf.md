@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gründung der AESF"
+title: "Unsere Tagung in Wuppertal ist die 78. AESF-Tagung"
 date: 2026-11-16 00:00:00 +0100
 author: Jürgen Wilbert
 ---
