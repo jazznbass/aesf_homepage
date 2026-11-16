@@ -81,5 +81,8 @@ Die nächsten Tagungen finden wie folgt statt:
 | 1999 | Frühjahr | Berlin, DE |
 | 1998 | Herbst | Köln, DE |
 | 1998 | Frühjahr | ?? |
+| ... |  |  |
+| ?1988 | Frühjahr | Gießen, DE |
+| ?1987 | Herbst | Aachen, DE |
 
-Mit „??“ gekennzeichnete Angaben sind noch offen.
+
